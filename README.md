@@ -1,4 +1,4 @@
-**Data Analysis on CSV Files**
+# **Data Analysis on CSV Files**
 
 ## 📌 Objective
 Analyze sales data from a CSV file using **Pandas** to extract basic insights and visualize them with charts.
